@@ -1,4 +1,4 @@
-Solving this problem:
+Solving this problem with linear regression approache:
 
 Suppose you are the CEO of a restaurant franchise and are considering different cities for opening a new outlet.
 - You would like to expand your business to cities that may give your restaurant higher profits.
